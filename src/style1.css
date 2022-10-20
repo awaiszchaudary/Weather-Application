@@ -1,0 +1,25 @@
+
+#head {
+    background: url('https://images.unsplash.com/photo-1612931005269-0f3362d7ee01?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1750&q=80') no-repeat 0 0;
+    height: 1000px;
+}
+
+#head #heading h1{
+    color : white;
+    text-align: center;
+}
+
+#label{
+    color: white;
+}
+
+#reportcard{
+    background:rgba(49, 48, 48 , 0.7);
+    border-radius: 5px;
+}
+
+#reportcard #data{
+    color: white;
+    text-align: center;
+}
+
